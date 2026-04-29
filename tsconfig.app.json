@@ -16,6 +16,7 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "strict": true,
+    // TODO: Re-enable after GitAuto setup; remove unused code before committing
     "noUnusedLocals": false,
     "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true
